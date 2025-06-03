@@ -3,7 +3,7 @@
 	"package": "kelvinlby.pythonapi.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"MainClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
